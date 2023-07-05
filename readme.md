@@ -1,5 +1,5 @@
-
-
+# Sort A List - Global Hack Week: Launch
+This is a solution for "Sort a List" at GHW: Season Launch.
 
 
 
