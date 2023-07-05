@@ -10,5 +10,6 @@ const resultWithPush = [];
 const getName = (movie) => {
   resultWithPush.push(movie.title);
 };
+resultWithPush.sort()
 data.forEach(getName);
 // console.log(resultWithPush);
